@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '56777'
     url: http://www.gutenberg.org/2009/agents/56777
     wikipedia: https://en.wikipedia.org/wiki/Abraham_Fornander
+covers:
+- cover_type: archival
+  image_path: 73166-h/images/new-cover.jpg
 creator:
   editor:
     agent_name: Thrum, Thomas G. (Thomas George)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '8035'
     url: http://www.gutenberg.org/2009/agents/8035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73166#Fornander-collection-of-Hawaiian-antiquities-and-folk-lore-Volume-2-of-3-b-The-Hawaiians-acco_
 gutenberg_issued: '2024-03-14'
 gutenberg_type: Text
 identifiers:
